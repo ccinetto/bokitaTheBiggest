@@ -6,3 +6,4 @@ for(let i=0; i<10;i++) {
 
 const a = 'boke'
 if(a === 'boke') console.log('sos re grande');
+console.log("CHAU");
